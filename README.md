@@ -1,5 +1,13 @@
 # LuLzbot TAZ 5 3D Printer firmware update
 
+This fork of marlin has been specially talored to the TAZ 5.
+I had difficulty finding an update that was easily modified so i decided to configure marlin and upload it to github.
+
+I have tested this firmware on my taz 5 with a standard hexagon v2 hotend, if you are using a different hot end feel free to use this as a starting point.
+
+I would personally raise your z endstop before updating, then relevel once updated.
+
+update at your own risk!
 
 
 
